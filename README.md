@@ -1,4 +1,9 @@
+[![Header](https://media-exp1.licdn.com/dms/image/C5616AQEv-33wulg2lg/profile-displaybackgroundimage-shrink_350_1400/0/1617988096759?e=1623888000&v=beta&t=SW3bwu55xBfMD7dVusB09vNk7gl6pYtbuEA1FxsDT3o "and we all can do it!")](https://www.linkedin.com/in/gvpraju)
+
+
 ### Hi there 👋
+I am Venkatapathi Raju. Call me _Venkat_ and save some memory.😀 
+I am from Visakhapatnam, the city of destiny but I now live in Hyderabad. I work in Infosys Limited as a Systems Engineer. I love ☕ and 🚀🚀. 
 
 <!--
 **techpathi/techpathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
