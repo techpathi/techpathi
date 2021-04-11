@@ -2,8 +2,10 @@
 
 
 ### Hi there 👋
-I am Venkatapathi Raju. Call me _Venkat_ and save some memory.😀 
-I am from Visakhapatnam, the city of destiny but I now live in Hyderabad. I work in Infosys Limited as a Systems Engineer. I love ☕ and 🚀🚀. 
+I am Venkatapathi Raju. Call me _Venkat_ and save some memory😀 
+I am from Visakhapatnam, the City of Destiny but now I live in Hyderabad. I work in Infosys Limited as a Systems Engineer. I love ☕ and 🚀🚀, to be precise, the Starship. 
+
+
 
 <!--
 **techpathi/techpathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
