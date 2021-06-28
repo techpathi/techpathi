@@ -6,3 +6,5 @@ I am Venkatapathi Raju. Let's talk all things MERN. I speak Javascript. I work i
 - 🌱 I’m currently learning JavaScript data structures
 - 💬 Ask me about tech, space travel, books and everything else
 - 📫 How to reach me: Visit https://techpathi.dev
+- 👨🏻‍💻 I built a web tryout editor over the weekend: Visit http://codeslash.herokuapp.com/
+
