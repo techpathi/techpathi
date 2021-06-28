@@ -1,22 +1,8 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C5616AQEv-33wulg2lg/profile-displaybackgroundimage-shrink_350_1400/0/1617988096759?e=1623888000&v=beta&t=SW3bwu55xBfMD7dVusB09vNk7gl6pYtbuEA1FxsDT3o "and we all can do it!")](https://www.linkedin.com/in/gvpraju)
-
-
 ### Hi there 👋
+
 I am Venkatapathi Raju. Let's talk all things MERN. I speak Javascript. I work in Infosys Limited as a Systems Engineer. I love ☕ and 🚀🚀, to be precise, the Starship. 
 
-
-
-<!--
-**techpathi/techpathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN stack
+- 🌱 I’m currently learning JavaScript data structures
+- 💬 Ask me about tech, space travel, books and everything else
+- 📫 How to reach me: Visit https://techpathi.dev
