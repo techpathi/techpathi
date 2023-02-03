@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I am Venkatapathi Raju. Let's talk all things MERN. I speak Javascript. I work in Infosys Limited as a Systems Engineer. I love ☕ and 🚀🚀, to be precise, the Starship. 
+I am Venkatapathi Raju. 
 
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning JavaScript data structures
-- 💬 Ask me about tech, space travel, books and everything else
-- 📫 How to reach me: Visit https://techpathi.dev
+Experienced product-focused software developer with 3.5 years in building high-performing web applications. Skilled in React, Node.js, SPFx for SharePoint, and Microsoft Azure. Adept in javascript, Typescript, and C#. Focused on user experience and attention to detail, with a strong ability to design visually appealing user interfaces. Proficient in SQL and NoSQL databases and API development in Node. Experienced in developing complex function apps in Azure, utilizing Triggers, ServiceBus, and SignalR. Built successful real-time notification and business processing systems with a publish-subscribe model for thousands of users.
 
-- 👨🏻‍💻 I built few apps over the weekend. <hr>
+- 👨🏻‍💻 I built few web apps over the weekend. <hr>
  An online Web editor - View the app live at https://codeslash.techpathi.dev/ <hr>
 <img width="1440" alt="Screenshot 2021-07-01 at 08 30 39" src="https://user-images.githubusercontent.com/26018388/124058343-d3264a80-da46-11eb-96b6-f8115eb979a0.png">
 <hr>
