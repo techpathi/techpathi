@@ -2,7 +2,7 @@
 
 I am Venkatapathi Raju. 
 
-Experienced product-focused software developer with 3.5 years in building high-performing web applications. Skilled in React, Node.js, SPFx for SharePoint, and Microsoft Azure. Adept in javascript, Typescript, and C#. Focused on user experience and attention to detail, with a strong ability to design visually appealing user interfaces. Proficient in SQL and NoSQL databases and API development in Node. Experienced in developing complex function apps in Azure, utilizing Triggers, ServiceBus, and SignalR. Built successful real-time notification and business processing systems with a publish-subscribe model for thousands of users.
+Experienced product-focused software developer with 6 years in building high-performing web applications. Skilled in React, Node.js, SPFx for SharePoint, and Microsoft Azure. Adept in javascript, Typescript, and C#. Focused on user experience and attention to detail, with a strong ability to design visually appealing user interfaces. Proficient in SQL and NoSQL databases and API development in Node. Experienced in developing complex function apps in Azure, utilizing Triggers, ServiceBus, and SignalR. Built successful real-time notification and business processing systems with a publish-subscribe model for thousands of users.
 
 - 👨🏻‍💻 I built few web apps over the weekend. <hr>
  An online Web editor - View the app live at https://romantic-yonath-bcd6ac.netlify.app/ <hr>
